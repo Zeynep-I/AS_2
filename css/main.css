@@ -1,0 +1,78 @@
+.bg-image-intre {
+    background-image: url("../img/banner-bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-between {
+    background-image: url("../img/services-bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-dark-blue{
+    background-color: #383D50;
+}
+
+.bg-shadow {
+    background-color: rgba(228, 222, 222, 0.274);
+}
+.bg-black-shadow {
+    background-color: rgba(56,61,80, 0.705);
+}
+.bg-red-shadow {
+    background-color: rgba(242,115,96, 0.705);
+}
+.bg-info-shadow {
+    background-color: rgba(70,186,227, 0.705);
+}
+
+a.hover-1 {
+    position: relative;
+    color: rgb(159, 166, 178)!important;
+}
+
+a.hover-1:hover {
+    color: white!important;
+    background-color: #F27360;
+}
+
+.bg-light-red{
+    background-color: #F27360;
+}
+.bg-light-gray{
+    background-color: #F4F4F4;
+}
+.text-light-red{
+    color: #F27360;
+}
+
+.header-margin-top {
+    margin-top: -1rem;
+}
+
+.btn-light-red{
+    background-color: #F27360;
+    color: white;
+}
+.btn-light-red:hover{
+    background-color:transparent;
+    color: #F27360;
+    border: 1px solid #F27360;
+}
+
+.btn-info{
+    background-color: #0DCAF0;
+    color: white;
+}
+
+.btn-info:hover{
+    background-color: transparent;
+    color: #0DCAF0;
+    border: 1px solid #0DCAF0;
+}
